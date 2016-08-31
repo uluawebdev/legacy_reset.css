@@ -1,0 +1,28 @@
+html, body, div, header, nav, main, section, article, aside, footer, blockquote, img, label, h1, h2, h3, h4, h5, h6, p, a, ul, li, ol, table, th, td, dt, dd, dl, form, fieldset, input {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: none;
+}
+
+h1, h2, h3, h4, h5, h6, p, a {
+	font-size: 100%;
+	padding: .6em 0;
+	margin: 0 15px;
+}
+
+body {
+	line-height: 1;
+}
+
+ul, ol {
+	list-style: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+img {
+	border: 0;
+}
